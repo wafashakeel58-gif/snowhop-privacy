@@ -1,0 +1,11 @@
+# Games by 1Muhammad, shown on the More Games screen in Snow Hop.
+#
+# Published at https://wafashakeel58-gif.github.io/snowhop-privacy/games.txt
+# Every installed copy of the game reads this file, so adding a line here
+# lists a new game everywhere, with no app update.
+#
+# One game per line:   package name | Game name | One short line about it
+# Example:             com.muhammad1.skydash | Sky Dash | Race the clouds with one thumb
+#
+# Snow Hop itself is left out automatically. While no other game is listed,
+# the screen says more games are coming soon.
