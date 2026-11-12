@@ -9,3 +9,5 @@
 #
 # Snow Hop itself is left out automatically. While no other game is listed,
 # the screen says more games are coming soon.
+
+com.muhammad1.snowhop | Snow Hop | Bounce up an endless ice tower. Chain jumps, dodge falls, climb higher!
